@@ -1,3 +1,5 @@
+
+<img src="banner-3.jpg">
 <h1 align="center">Hello I'm TANVIR AHMED</h1>
 <h3 align="center">Turning complex problems into simple and functional digital experiences. I design with purpose and build with precision</h3>
 
