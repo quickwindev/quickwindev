@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Advanced & mastering scalable Web Designer**
 
-- 👨‍💻 All of my projects are available at [file:///D:/Class%209/Complete%20portfolio/Tanvir%20Ahmed/Quick%20Win/Portfolio/index.htmlfile:///D:/Class%209/Complete%20portfolio/Tanvir%20Ahmed/Quick%20Win/Portfolio/index.html]
+- 👨‍💻 All of my projects are available at [file:///D:/Class%209/Complete%20portfolio/Tanvir%20Ahmed/Quick%20Win/Portfolio/index.html]
 - 💬 Ask me about **Web Design, Web Development, WordPress Development, Web Application**
 
 - 📫 How to reach me **tanvirgap@gmail.com**
