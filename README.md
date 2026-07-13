@@ -1,7 +1,7 @@
 
 <img width="2180" height="1024" alt="quickwindev" src="https://github.com/user-attachments/assets/0d7d9001-fdf9-4ad0-9cda-e1ec326290bd" />
 
-<h1 align="center">Hello I'm TANVIR AHMED</h1>
+<h1 align="center">Hey! This Is TANVIR AHMED</h1>
 <h3 align="center">Turning complex problems into simple and functional digital experiences. I design with purpose and build with precision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quickwindev&label=Profile%20views&color=0e75b6&style=flat" alt="quickwindev" /> </p>
