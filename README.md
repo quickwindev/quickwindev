@@ -1,6 +1,5 @@
 
 <img width="1717" height="916" alt="bg_3" src="https://github.com/user-attachments/assets/1db61054-0943-47ef-9ac1-ea97d10e2007" />
-" />
 
 <h1 align="center">Hey! This Is TANVIR AHMED</h1>
 <h3 align="center">Turning complex problems into simple and functional digital experiences. I design with purpose and build with precision</h3>
